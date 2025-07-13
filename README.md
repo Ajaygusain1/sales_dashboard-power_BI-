@@ -62,6 +62,11 @@ The dashboard is based on a structured sales dataset that includes two main tabl
 
 ---
 
+##
+ **when category = clothing and region = north then stats looks like this**
+ <img width="1331" height="731" alt="Screenshot 2025-07-13 213829" src="https://github.com/user-attachments/assets/149d9252-db61-4de8-aceb-3b619ecc136a" />
+
+ ---
 
 
 
